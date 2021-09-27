@@ -5,4 +5,4 @@ Assignment 4 in Comp 311 Fall 2021
 
 This assignment focuses on functions programs that process recursive data domains other than lists.  The problems involve defining function to evaluate arithmetic expressions
 formulated as abstract syntax trees which makes the evaluatoin task very easy.  Real world language implementations almost universally formulate programs as abstract syntax 
-trees.  The details of the assignment are expressed in the HTML file [`HW2.html`](https://raw.githack.com/JavaPLT/Assignment-4-Master/main/HW2.html).
+trees.  The details of the assignment are expressed in the HTML file [`HW4.html`](https://raw.githack.com/JavaPLT/Assignment-4-Master/main/HW4.html).
